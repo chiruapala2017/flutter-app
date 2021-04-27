@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773191505250",
+    "project_id": "neevistafoodapp",
+    "storage_bucket": "neevistafoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773191505250:android:7a58972e33e625680a883b",
+        "android_client_info": {
+          "package_name": "com.neevista.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773191505250-3ihegiuqk9v47vbr9lcqab9bljve2vgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy521pbdtPVWv9wX2fvYgUnocASC95aEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773191505250-3ihegiuqk9v47vbr9lcqab9bljve2vgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
